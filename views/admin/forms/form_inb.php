@@ -1,5 +1,5 @@
 <fieldset>
-	<legend>Mensaje recibido..</legend>
+	<legend>Mensaje enviado..</legend>
 		<form name="register" method="post" action="http://localhost/webmail/app/Http/Controllers/Controller.php">
 			<p>
 				<label>Asunto: </label><input type="submit" name="btn-read" value="<?php if(isset($_SESSION['asunto'])){ echo $_SESSION['asunto'];} ?>" class="btn-read">

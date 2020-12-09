@@ -14,7 +14,7 @@
 
 <ul class="topnav">
   <li><a class="active" href="http://localhost/webmail/index.php">Inicio</a></li>
-  <li><a href="http://localhost/webmail/views/admin/inbox.php?inbox=true">Inbox</a></li>
+  <li><a href="http://localhost/webmail/views/admin/inbox.php?inbox=true">Enviados</a></li>
   <li><a href="http://localhost/webmail/views/admin/index.php?inicio=true">Nuevo mensaje</a></li>
   <li><a href="http://localhost/webmail/views/admin/perfil.php">Mis datos</a></li>
 
